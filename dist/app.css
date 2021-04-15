@@ -1,0 +1,24 @@
+h1 {
+  color: #507b7b;
+}
+
+h2 {
+  color: #67ffc5;
+}
+
+h3 {
+  color: #f36407;
+}
+
+h4 {
+  color: #9a183a;
+}
+
+button {
+  background-color: #67ffc5;
+  color: #9a183a;
+}
+
+img {
+  height: 200px;
+}

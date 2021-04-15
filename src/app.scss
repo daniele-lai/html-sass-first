@@ -1,0 +1,29 @@
+$primary_color: #507b7b;
+$secondary_color: #67ffc5;
+$tertiary_color: #f36407;
+$quaternary_color: #9a183a;
+
+h1 {
+  color: $primary_color;
+}
+
+h2 {
+  color: $secondary_color;
+}
+
+h3 {
+  color: $tertiary_color;
+}
+
+h4 {
+  color: $quaternary_color;
+}
+
+button {
+  background-color: $secondary_color;
+  color: $quaternary_color;
+}
+
+img {
+  height: 200px;
+}
